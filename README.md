@@ -11,6 +11,6 @@ This project is from the Udacity Blockchain Developer Nanodegree - Project: Buil
 ![createStar_a](https://github.com/anishsamant/Udacity_StarNotary_Project/assets/21247634/145060c8-629a-470b-8d6e-6d42b0156991)
 ![createStar_b](https://github.com/anishsamant/Udacity_StarNotary_Project/assets/21247634/9cb69818-3ddb-4066-ab0e-31040dd046a7)
 
-### 2. loolUpStar
+### 2. lookUpStar
 ![lookUpStar](https://github.com/anishsamant/Udacity_StarNotary_Project/assets/21247634/ff985ba3-ccdd-485b-a3fe-76095c9d92d1)
 
